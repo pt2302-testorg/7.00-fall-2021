@@ -1,0 +1,9 @@
+leftnav:
+- identifier: 44605915-67ff-38ae-d4ec-ceae6216cefd
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 10
+- identifier: b74f6d64-9665-4d20-ac94-ac0ec5d567c5
+  name: Online Publication
+  pageRef: /external-resources/online-publication_b74f6d64-9665-4d20-ac94-ac0ec5d567c5
+  weight: 20
